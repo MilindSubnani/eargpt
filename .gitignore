@@ -1,7 +1,14 @@
-# Virtual environments
-backend/venv/
-frontend/node_modules/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
 
-# OS & editor
+# Node
+node_modules/
+dist/
+
+# Env and system
+.env
 .DS_Store
-Thumbs.db
