@@ -1,0 +1,7 @@
+# Virtual environments
+backend/venv/
+frontend/node_modules/
+
+# OS & editor
+.DS_Store
+Thumbs.db
